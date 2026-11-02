@@ -1,0 +1,5 @@
+# Cobot build/test override for this sandbox (worker_requirements §5.6).
+build:
+  - "echo build ok"
+test:
+  - "echo test ok"
